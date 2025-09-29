@@ -1,3 +1,7 @@
+This is my first pull request practice!
+
+
+
 # Data Integration API
 
 This project implements a data integration API using FastAPI. The API allows you to store and retrieve metric readings such as voltage and current. The data is stored in an SQLite database and can be queried by a date range to retrieve readings along with calculated average power readings.
